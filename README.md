@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-anuragi-184606222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-anuragi-184606222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-anuragi-184606222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-anuragi-184606222/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ak_developer01/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ak_developer01/?next=%2f" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucj7sls42lhd3pj7nbku6foq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj7sls42lhd3pj7nbku6foq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akash_anuragi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akash_anuragi/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akash_anuragi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akash_anuragi/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://pathfinder.w3schools.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://pathfinder.w3schools.com/" height="30" width="40" /></a>
 </p>
 
