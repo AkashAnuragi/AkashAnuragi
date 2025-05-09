@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashanuragi&show_icons=true&locale=en" alt="akashanuragi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashanuragi&" alt="akashanuragi" /></p>
+
+## Watch Snake eating my github Contributions
+![snake gif](https://github.com/AkashAnuragi/AkashAnuragi/blob/output/github-contribution-grid-snake.gif)
