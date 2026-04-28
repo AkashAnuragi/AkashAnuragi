@@ -1,32 +1,180 @@
-![logo](https://github.com/AkashAnuragi/AkashAnuragi/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Akash Anuragi</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+```
+ █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗    █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗ ██╗
+██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║   ██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝ ██║
+███████║█████╔╝ ███████║███████╗███████║   ███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║  ███╗██║
+██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║   ██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║   ██║██║
+██║  ██║██║  ██╗██║  ██║███████║██║  ██║   ██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╔╝██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashanuragi&label=Profile%20views&color=0e75b6&style=flat" alt="akashanuragi" /> </p>
+### 📊 Data Analyst · Power BI · SQL · Python · Excel
 
-- 📫 How to reach me **akashanuragi421@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-anuragi-184606222/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashAnuragi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akash_anuragi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashanuragi421@gmail.com)
 
-- ⚡ Fun fact **I am Funny**
+![Profile Views](https://komarev.com/ghpvc/?username=akashanuragi&color=58a6ff&style=flat-square&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Open%20To-Data%20Analyst%20%7C%20Data%20Science%20Roles-3fb950?style=flat-square)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-anuragi-184606222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-anuragi-184606222/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ak_developer01/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ak_developer01/?next=%2f" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucj7sls42lhd3pj7nbku6foq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj7sls42lhd3pj7nbku6foq" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/akash_anuragi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akash_anuragi/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://pathfinder.w3schools.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://pathfinder.w3schools.com/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashanuragi&show_icons=true&locale=en&layout=compact" alt="akashanuragi" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashanuragi&show_icons=true&locale=en" alt="akashanuragi" /></p>
+```python
+akash = {
+    "name"      : "Akash Anuragi",
+    "location"  : "Meerut, India 🇮🇳",
+    "education" : "B.Tech CSE — IIMT Engineering College (AKTU), 2025",
+    "currently" : "XML & LaTeX Programmer @ Aptara",
+    "focus"     : ["Data Analytics", "Business Intelligence", "Data Science"],
+    "tools"     : ["Power BI", "MySQL", "Python", "Excel", "DAX"],
+    "goal"      : "Turning raw data into decisions that actually matter",
+    "fun_fact"  : "I find more bugs in data than in code 🔍"
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashanuragi&" alt="akashanuragi" /></p>
+> *"Data is the new oil — and I know how to refine it."*
 
-## Watch Snake eating my github Contributions
-![snake gif](https://github.com/AkashAnuragi/AkashAnuragi/blob/output/github-contribution-grid-snake.gif)
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analysis & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🐍 Programming & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ⚙️ Other Tools
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Motorola Sales Intelligence Dashboard
+> *Power BI · DAX · Power Query · Star Schema*
+
+- 🏆 Analyzed **₹769M+** in revenue across **19,000+ units** sold
+- 🔧 Built end-to-end data pipeline: raw data → cleaning → star-schema modeling → KPI dashboard
+- 📍 Insights across city-level revenue, monthly trends, payment behavior & product performance
+- ⚡ Implemented dynamic DAX measures for real-time KPI calculations
+
+---
+
+### 🗄️ Store Management System
+> *Python · MySQL · Relational Database Design*
+
+- Built a full **CLI application** with CRUD operations for inventory & sales
+- 🧩 Designed relational database schema with data validation for business use
+- 📦 Handles product records, sales history & automated reporting
+
+---
+
+### 🏥 Hospital Management System
+> *Python · OOP · Data Modeling*
+
+- 👨‍⚕️ Manages patient records, doctor schedules & appointment tracking
+- 🔍 Advanced search & reporting features for admin workflows
+- Structured around clean **OOP principles** and modular architecture
+
+---
+
+## 💼 Work Experience
+
+```
+🔵  XML & LaTeX Programmer         Aptara                  June 2025 – Present
+    ├── Real-time Excel tracker management for project workloads
+    ├── Data quality assurance for international publishing clients
+    └── LaTeX → XML conversion with schema compliance
+
+🟢  Software Developer Intern      Robustresults Pvt. Ltd.  Oct 2022 – Nov 2022
+    ├── Built web apps with real-time data handling (agile team)
+    └── Optimized structured data storage & retrieval pipelines
+```
+
+---
+
+## 📈 Skill Proficiency
+
+```
+Excel / Reporting  ████████████████████░░  90%
+SQL                ███████████████████░░░  88%
+Power BI           ██████████████████░░░░  85%
+DAX                █████████████████░░░░░  80%
+Python             ████████████████░░░░░░  75%
+Scikit-learn       ████████████░░░░░░░░░░  55%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=akashanuragi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashanuragi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=akashanuragi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| 🎓 B.Tech — CSE | IIMT Engineering College (AKTU), Meerut | 2021–2025 | — |
+| 📘 12th Grade | S.D.H.T. Saraswati Vidya Mandir, Meerut | 2021 | 78.68% |
+| 📗 10th Grade | S.D.H.T. Saraswati Vidya Mandir, Meerut | 2019 | 84.83% |
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Machine Learning with Scikit-learn & XGBoost
+- 📊 Advanced DAX patterns & data modeling
+- ☁️ Cloud BI tools (Azure, AWS QuickSight)
+- 🐍 Data Science pipeline best practices
+
+---
+
+<div align="center">
+
+### 🐍 Watch Snake Eat My Contributions
+
+![Snake Animation](https://github.com/AkashAnuragi/AkashAnuragi/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+**Let's connect and build something data-driven together!** 🚀
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-anuragi-184606222/)
+
+</div>
